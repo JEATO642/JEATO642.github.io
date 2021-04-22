@@ -35,10 +35,10 @@ h3 {
         
          <p>I am a freshman at Bob Jones University studying Ministry & Leadership and also taking business classes.</p>
          <p>
-            I enjoy music and I attend Grace Baptist Church in Starr SC where i have went my entire life. 
+            I enjoy music and I attend Grace Baptist Church in Starr SC where I have attended my entire life. 
          </p> 
          <p>
-            I also enjoy running / hiking as well as a good book
+            I also enjoy hunnting,and working out.
          </p>
         
         <h3>EDUCATION</h3>
